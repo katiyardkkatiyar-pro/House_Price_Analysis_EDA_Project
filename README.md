@@ -1,7 +1,6 @@
 # 🏠 House Price Analysis & EDA
 
-[![Dashboard](Dashboard.png)](<img width="1548" height="853" alt="Screenshot 2026-05-30 153631" src="https://github.com/user-attachments/assets/f45e6845-51be-4a68-a787-b43e9817e0fa" />
-)
+[![Dashboard]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-05-30 153631.png")]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-05-30 153631.png")
 
 ## 📌 Overview
 
